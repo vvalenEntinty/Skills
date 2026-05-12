@@ -18,6 +18,12 @@ Invoke them with `/skill-name` or let Claude trigger them automatically when you
 |-------|-------------|--------|
 | [security-review](./Security/SKILL.md) | Deep cybersecurity audit: finds vulnerabilities (OWASP Top 10+), demonstrates exploits, and applies fixes directly | `/security-review [file]` |
 
+### Frontend
+
+| Skill | Description | Invoke |
+|-------|-------------|--------|
+| [clone-ui](./CloneUI/SKILL.md) | Takes a screenshot or URL and rebuilds the UI from scratch in pixel-perfect, production-quality code | `/clone-ui [image or URL]` |
+
 ---
 
 ## Installation
