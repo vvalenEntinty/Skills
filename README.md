@@ -50,7 +50,9 @@ cp -r Skills/Security <your-project>/.claude/skills/security-review
 Skills/
 ├── README.md
 ├── Security/
-│   └── SKILL.md
+│   └── SKILL.md          ← security-review
+├── CloneUI/
+│   └── SKILL.md          ← clone-ui
 └── <Category>/
     └── SKILL.md
 ```
